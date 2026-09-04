@@ -1,0 +1,456 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FormCourier CRM 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/formcourier-crm/\n"
+"POT-Creation-Date: 2026-07-25 00:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: formcourier-crm\n"
+msgid "&laquo; Previous"
+msgstr ""
+
+msgid "API Token:"
+msgstr ""
+
+msgid "API token"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Add field"
+msgstr ""
+
+msgid "Added"
+msgstr ""
+
+msgid "All statuses"
+msgstr ""
+
+msgid "At least one Pipedrive person identifier is required."
+msgstr ""
+
+msgid "CRM"
+msgstr ""
+
+msgid "CRM field"
+msgstr ""
+
+msgid "CRM provider is unavailable."
+msgstr ""
+
+msgid "CRM provider request failed."
+msgstr ""
+
+msgid "CRM system"
+msgstr ""
+
+msgid "CRM:"
+msgstr ""
+
+msgid "Clear all logs"
+msgstr ""
+
+msgid "Clear all logs?"
+msgstr ""
+
+msgid "Company domain"
+msgstr ""
+
+msgid "Complete both fields in this mapping row."
+msgstr ""
+
+msgid "Connect Contact Form 7 and WPForms to HubSpot or Pipedrive with visual field mapping and privacy-aware logs."
+msgstr ""
+
+msgid "Connect Contact Form 7 or WPForms to HubSpot or Pipedrive."
+msgstr ""
+
+msgid "Connection successful. HubSpot API is available and the Service Key works."
+msgstr ""
+
+msgid "Connection successful. Pipedrive API is available."
+msgstr ""
+
+msgid "Connection test"
+msgstr ""
+
+msgid "Connection test finished."
+msgstr ""
+
+msgid "Contact + Deal"
+msgstr ""
+
+msgid "Contact + Deal creates or updates the contact and then creates a new associated HubSpot deal."
+msgstr ""
+
+msgid "Contact Form 7 email DNS validation"
+msgstr ""
+
+msgid "Contact created and deal created in HubSpot."
+msgstr ""
+
+msgid "Contact created in HubSpot."
+msgstr ""
+
+msgid "Contact only"
+msgstr ""
+
+msgid "Contact updated and deal created in HubSpot."
+msgstr ""
+
+msgid "Contact updated in HubSpot by email."
+msgstr ""
+
+msgid "Contact updated in HubSpot."
+msgstr ""
+
+msgid "Contact was saved, but HubSpot contact ID was not found for deal association."
+msgstr ""
+
+msgid "Contact was saved, but HubSpot deal creation failed."
+msgstr ""
+
+msgid "Created"
+msgstr ""
+
+msgid "Currency"
+msgstr ""
+
+msgid "Current Integration"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Deal"
+msgstr ""
+
+msgid "Deal Stage:"
+msgstr ""
+
+msgid "Deal created and associated with HubSpot contact."
+msgstr ""
+
+msgid "Deal created in Pipedrive, but note was not added."
+msgstr ""
+
+msgid "Deal created in Pipedrive."
+msgstr ""
+
+msgid "Deal updated in Pipedrive, but note was not added."
+msgstr ""
+
+msgid "Deal updated in Pipedrive."
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete data on uninstall"
+msgstr ""
+
+msgid "Delete settings and logs when the plugin is uninstalled"
+msgstr ""
+
+msgid "Detailed payload logs"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Disabled by default. Emails, phone numbers, tokens and other sensitive values are masked."
+msgstr ""
+
+msgid "Each mapping row must contain both a form field and a CRM field. The mapping changes were not saved."
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Email is required for HubSpot contact."
+msgstr ""
+
+msgid "Enable CRM integration"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Entity type"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Failed"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Form"
+msgstr ""
+
+msgid "Form field"
+msgstr ""
+
+msgid "Form plugin"
+msgstr ""
+
+msgid "Form:"
+msgstr ""
+
+msgid "FormCourier CRM"
+msgstr ""
+
+msgid "FormCourier CRM Submission Logs"
+msgstr ""
+
+msgid "FormCourier CRM is paused because FormCourier CRM Pro is active. This prevents duplicate form submissions."
+msgstr ""
+
+msgid "Forms & Mapping"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Get FormCourier CRM Pro"
+msgstr ""
+
+msgid "HubSpot Deal Pipeline ID"
+msgstr ""
+
+msgid "HubSpot Deal Stage ID"
+msgstr ""
+
+msgid "HubSpot Save Mode"
+msgstr ""
+
+msgid "HubSpot Service Key does not have the required contact read scope."
+msgstr ""
+
+msgid "HubSpot Service Key is empty."
+msgstr ""
+
+msgid "HubSpot Service Key is invalid or expired."
+msgstr ""
+
+msgid "HubSpot access token is empty."
+msgstr ""
+
+msgid "HubSpot connection failed."
+msgstr ""
+
+msgid "HubSpot contact found."
+msgstr ""
+
+msgid "HubSpot contact not found."
+msgstr ""
+
+msgid "HubSpot contact search request failed."
+msgstr ""
+
+msgid "HubSpot contact search returned HTTP error."
+msgstr ""
+
+msgid "HubSpot deal request failed."
+msgstr ""
+
+msgid "HubSpot deal request returned HTTP error."
+msgstr ""
+
+msgid "HubSpot request failed."
+msgstr ""
+
+msgid "HubSpot returned HTTP error."
+msgstr ""
+
+msgid "HubSpot returned an unexpected API error."
+msgstr ""
+
+msgid "Integration status"
+msgstr ""
+
+msgid "Invalid email address."
+msgstr ""
+
+msgid "Lead"
+msgstr ""
+
+msgid "Lead created in Pipedrive, but note was not added."
+msgstr ""
+
+msgid "Lead created in Pipedrive."
+msgstr ""
+
+msgid "Lead updated in Pipedrive, but note was not added."
+msgstr ""
+
+msgid "Lead updated in Pipedrive."
+msgstr ""
+
+msgid "Leave empty to keep the saved token. Contact mode requires contact read and write scopes. Contact + Deal also requires the deal write scope."
+msgstr ""
+
+msgid "Lite provides global mappings. Individual mappings for specific form IDs are available in FormCourier CRM Pro."
+msgstr ""
+
+msgid "Logs updated successfully."
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Missing"
+msgstr ""
+
+msgid "Need more integrations?"
+msgstr ""
+
+msgid "Next &raquo;"
+msgstr ""
+
+msgid "No log entries found."
+msgstr ""
+
+msgid "Opens an external commercial website."
+msgstr ""
+
+msgid "Optional. Leave empty to use the default HubSpot pipeline."
+msgstr ""
+
+msgid "Owner ID"
+msgstr ""
+
+msgid "Pipedrive Domain:"
+msgstr ""
+
+msgid "Pipedrive Entity:"
+msgstr ""
+
+msgid "Pipedrive company domain or API token is empty."
+msgstr ""
+
+msgid "Pipedrive connection failed."
+msgstr ""
+
+msgid "Pipedrive did not return a person ID."
+msgstr ""
+
+msgid "Pipedrive returned HTTP/API error while saving a deal."
+msgstr ""
+
+msgid "Pipedrive returned HTTP/API error while saving a lead."
+msgstr ""
+
+msgid "Pipedrive returned HTTP/API error while saving a person."
+msgstr ""
+
+msgid "Pipeline ID"
+msgstr ""
+
+msgid "Please enter a valid email address."
+msgstr ""
+
+msgid "Private app access token"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Request"
+msgstr ""
+
+msgid "Required for Contact + Deal. Use the internal stage ID from HubSpot pipeline settings."
+msgstr ""
+
+msgid "Response"
+msgstr ""
+
+msgid "Review the privacy policy and terms of the selected CRM provider and update this site privacy policy to reflect the fields mapped by the administrator."
+msgstr ""
+
+msgid "Save Mode:"
+msgstr ""
+
+msgid "Search by masked email"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Skipped"
+msgstr ""
+
+msgid "Stage ID"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Status:"
+msgstr ""
+
+msgid "Store masked request and response payloads for troubleshooting"
+msgstr ""
+
+msgid "Submission Logs"
+msgstr ""
+
+msgid "Submission was not sent because field mapping is empty or no CRM fields were mapped."
+msgstr ""
+
+msgid "Submission was not sent because the mapped CRM payload is empty."
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "Test selected CRM connection"
+msgstr ""
+
+msgid "The CRM credential was not saved because secure encryption is unavailable. Enable the PHP OpenSSL extension and try again."
+msgstr ""
+
+msgid "The plugin can store a local technical log containing the form provider, CRM provider, processing result and a masked email address. Full request and response payload logging is disabled by default. CRM credentials are stored in encrypted form when OpenSSL is available."
+msgstr ""
+
+msgid "This suggested text describes the data flow created when FormCourier CRM is enabled."
+msgstr ""
+
+msgid "Unlock more CRM integrations and advanced workflows with FormCourier CRM Pro."
+msgstr ""
+
+msgid "Updated"
+msgstr ""
+
+msgid "Validate mapped Contact Form 7 email domains"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "View details"
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid "Website contact"
+msgstr ""
+
+msgid "Website lead - %s"
+msgstr ""
+
+msgid "Website request"
+msgstr ""
+
+msgid "When a visitor submits a supported form, the site may send mapped form fields such as name, email address, phone number and message content to the CRM provider selected by the site administrator. The destination is either HubSpot or Pipedrive. When HubSpot Contact + Deal mode is enabled, the plugin also creates a CRM deal associated with the contact. The data is sent only after the administrator enables the integration and supplies CRM credentials."
+msgstr ""
+
+msgid "You do not have permission to perform this action."
+msgstr ""
+

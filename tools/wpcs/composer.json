@@ -1,0 +1,16 @@
+{
+  "name": "denslav/formcourier-crm-wpcs",
+  "description": "Isolated WordPress Coding Standards tooling for FormCourier CRM.",
+  "type": "project",
+  "license": "GPL-2.0-or-later",
+  "require-dev": {
+    "squizlabs/php_codesniffer": "^3.13",
+    "wp-coding-standards/wpcs": "^3.2",
+    "dealerdirect/phpcodesniffer-composer-installer": "^1.0"
+  },
+  "config": {
+    "allow-plugins": {
+      "dealerdirect/phpcodesniffer-composer-installer": true
+    }
+  }
+}

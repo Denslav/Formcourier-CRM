@@ -1,0 +1,449 @@
+msgid ""
+msgstr "Project-Id-Version: FormCourier CRM 1.0.1\nReport-Msgid-Bugs-To: https://wordpress.org/support/plugin/formcourier-crm/\nPOT-Creation-Date: 2026-07-26 00:00+0000\nPO-Revision-Date: 2026-07-26 00:00+0000\nLast-Translator: Den Slav\nLanguage-Team: ru_RU\nLanguage: ru_RU\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\nX-Domain: formcourier-crm\n"
+
+msgid "&laquo; Previous"
+msgstr "&laquo; Назад"
+
+msgid "API Token:"
+msgstr "API-токен:"
+
+msgid "API token"
+msgstr "API-токен"
+
+msgid "Action"
+msgstr "Действие"
+
+msgid "Add field"
+msgstr "Добавить поле"
+
+msgid "Added"
+msgstr "Добавлен"
+
+msgid "All statuses"
+msgstr "Все статусы"
+
+msgid "At least one Pipedrive person identifier is required."
+msgstr "Необходимо указать хотя бы один идентификатор контакта Pipedrive."
+
+msgid "CRM"
+msgstr "CRM"
+
+msgid "CRM field"
+msgstr "Поле CRM"
+
+msgid "CRM provider is unavailable."
+msgstr "CRM-провайдер недоступен."
+
+msgid "CRM provider request failed."
+msgstr "Запрос к CRM-провайдеру завершился ошибкой."
+
+msgid "CRM system"
+msgstr "CRM-система"
+
+msgid "CRM:"
+msgstr "CRM:"
+
+msgid "Clear all logs"
+msgstr "Очистить все журналы"
+
+msgid "Clear all logs?"
+msgstr "Очистить все журналы?"
+
+msgid "Company domain"
+msgstr "Домен компании"
+
+msgid "Complete both fields in this mapping row."
+msgstr "Заполните оба поля в этой строке сопоставления."
+
+msgid "Connect Contact Form 7 and WPForms to HubSpot or Pipedrive with visual field mapping and privacy-aware logs."
+msgstr "Подключайте Contact Form 7 и WPForms к HubSpot или Pipedrive с визуальным сопоставлением полей и журналами с защитой данных."
+
+msgid "Connect Contact Form 7 or WPForms to HubSpot or Pipedrive."
+msgstr "Подключайте Contact Form 7 или WPForms к HubSpot или Pipedrive."
+
+msgid "Connection successful. HubSpot API is available and the Service Key works."
+msgstr "Подключение успешно. API HubSpot доступен, сервисный ключ работает."
+
+msgid "Connection successful. Pipedrive API is available."
+msgstr "Подключение успешно. API Pipedrive доступен."
+
+msgid "Connection test"
+msgstr "Проверка подключения"
+
+msgid "Connection test finished."
+msgstr "Проверка подключения завершена."
+
+msgid "Contact + Deal"
+msgstr "Контакт + сделка"
+
+msgid "Contact + Deal creates or updates the contact and then creates a new associated HubSpot deal."
+msgstr "Режим «Контакт + сделка» создаёт или обновляет контакт, а затем создаёт новую связанную сделку HubSpot."
+
+msgid "Contact Form 7 email DNS validation"
+msgstr "DNS-проверка email в Contact Form 7"
+
+msgid "Contact created and deal created in HubSpot."
+msgstr "Контакт и сделка созданы в HubSpot."
+
+msgid "Contact created in HubSpot."
+msgstr "Контакт создан в HubSpot."
+
+msgid "Contact only"
+msgstr "Только контакт"
+
+msgid "Contact updated and deal created in HubSpot."
+msgstr "Контакт обновлён, сделка создана в HubSpot."
+
+msgid "Contact updated in HubSpot by email."
+msgstr "Контакт обновлён в HubSpot по email."
+
+msgid "Contact updated in HubSpot."
+msgstr "Контакт обновлён в HubSpot."
+
+msgid "Contact was saved, but HubSpot contact ID was not found for deal association."
+msgstr "Контакт сохранён, но ID контакта HubSpot для привязки сделки не найден."
+
+msgid "Contact was saved, but HubSpot deal creation failed."
+msgstr "Контакт сохранён, но создать сделку HubSpot не удалось."
+
+msgid "Created"
+msgstr "Создано"
+
+msgid "Currency"
+msgstr "Валюта"
+
+msgid "Current Integration"
+msgstr "Текущая интеграция"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Deal"
+msgstr "Сделка"
+
+msgid "Deal Stage:"
+msgstr "Этап сделки:"
+
+msgid "Deal created and associated with HubSpot contact."
+msgstr "Сделка создана и связана с контактом HubSpot."
+
+msgid "Deal created in Pipedrive, but note was not added."
+msgstr "Сделка создана в Pipedrive, но примечание не добавлено."
+
+msgid "Deal created in Pipedrive."
+msgstr "Сделка создана в Pipedrive."
+
+msgid "Deal updated in Pipedrive, but note was not added."
+msgstr "Сделка обновлена в Pipedrive, но примечание не добавлено."
+
+msgid "Deal updated in Pipedrive."
+msgstr "Сделка обновлена в Pipedrive."
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Delete data on uninstall"
+msgstr "Удаление данных при деинсталляции"
+
+msgid "Delete settings and logs when the plugin is uninstalled"
+msgstr "Удалить настройки и журналы при удалении плагина"
+
+msgid "Detailed payload logs"
+msgstr "Подробные данные в журналах"
+
+msgid "Disabled"
+msgstr "Выключено"
+
+msgid "Disabled by default. Emails, phone numbers, tokens and other sensitive values are masked."
+msgstr "По умолчанию выключено. Email, номера телефонов, токены и другие конфиденциальные значения маскируются."
+
+msgid "Each mapping row must contain both a form field and a CRM field. The mapping changes were not saved."
+msgstr "Каждая строка сопоставления должна содержать поле формы и поле CRM. Изменения сопоставления не сохранены."
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Email is required for HubSpot contact."
+msgstr "Для контакта HubSpot требуется email."
+
+msgid "Enable CRM integration"
+msgstr "Включить интеграцию с CRM"
+
+msgid "Enabled"
+msgstr "Включено"
+
+msgid "Entity type"
+msgstr "Тип сущности"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Failed"
+msgstr "Неудачно"
+
+msgid "Filter"
+msgstr "Фильтровать"
+
+msgid "Form"
+msgstr "Форма"
+
+msgid "Form field"
+msgstr "Поле формы"
+
+msgid "Form plugin"
+msgstr "Плагин формы"
+
+msgid "Form:"
+msgstr "Форма:"
+
+msgid "FormCourier CRM"
+msgstr "FormCourier CRM"
+
+msgid "FormCourier CRM Submission Logs"
+msgstr "Журнал заявок FormCourier CRM"
+
+msgid "FormCourier CRM is paused because FormCourier CRM Pro is active. This prevents duplicate form submissions."
+msgstr "FormCourier CRM приостановлен, потому что активен FormCourier CRM Pro. Это предотвращает дублирование заявок."
+
+msgid "Forms & Mapping"
+msgstr "Формы и сопоставление"
+
+msgid "General"
+msgstr "Основные"
+
+msgid "HubSpot Deal Pipeline ID"
+msgstr "ID воронки сделок HubSpot"
+
+msgid "HubSpot Deal Stage ID"
+msgstr "ID этапа сделки HubSpot"
+
+msgid "HubSpot Save Mode"
+msgstr "Режим сохранения HubSpot"
+
+msgid "HubSpot Service Key does not have the required contact read scope."
+msgstr "У сервисного ключа HubSpot нет необходимого права на чтение контактов."
+
+msgid "HubSpot Service Key is empty."
+msgstr "Сервисный ключ HubSpot не указан."
+
+msgid "HubSpot Service Key is invalid or expired."
+msgstr "Сервисный ключ HubSpot недействителен или истёк."
+
+msgid "HubSpot access token is empty."
+msgstr "Токен доступа HubSpot не указан."
+
+msgid "HubSpot connection failed."
+msgstr "Не удалось подключиться к HubSpot."
+
+msgid "HubSpot contact found."
+msgstr "Контакт HubSpot найден."
+
+msgid "HubSpot contact not found."
+msgstr "Контакт HubSpot не найден."
+
+msgid "HubSpot contact search request failed."
+msgstr "Запрос поиска контакта HubSpot завершился ошибкой."
+
+msgid "HubSpot contact search returned HTTP error."
+msgstr "Поиск контакта HubSpot вернул HTTP-ошибку."
+
+msgid "HubSpot deal request failed."
+msgstr "Запрос сделки HubSpot завершился ошибкой."
+
+msgid "HubSpot deal request returned HTTP error."
+msgstr "Запрос сделки HubSpot вернул HTTP-ошибку."
+
+msgid "HubSpot request failed."
+msgstr "Запрос к HubSpot завершился ошибкой."
+
+msgid "HubSpot returned HTTP error."
+msgstr "HubSpot вернул HTTP-ошибку."
+
+msgid "HubSpot returned an unexpected API error."
+msgstr "HubSpot вернул непредвиденную ошибку API."
+
+msgid "Integration status"
+msgstr "Статус интеграции"
+
+msgid "Invalid email address."
+msgstr "Некорректный адрес email."
+
+msgid "Lead"
+msgstr "Лид"
+
+msgid "Lead created in Pipedrive, but note was not added."
+msgstr "Лид создан в Pipedrive, но примечание не добавлено."
+
+msgid "Lead created in Pipedrive."
+msgstr "Лид создан в Pipedrive."
+
+msgid "Lead updated in Pipedrive, but note was not added."
+msgstr "Лид обновлён в Pipedrive, но примечание не добавлено."
+
+msgid "Lead updated in Pipedrive."
+msgstr "Лид обновлён в Pipedrive."
+
+msgid "Leave empty to keep the saved token. Contact mode requires contact read and write scopes. Contact + Deal also requires the deal write scope."
+msgstr "Оставьте поле пустым, чтобы сохранить текущий токен. Для режима контакта нужны права чтения и записи контактов. Для режима «Контакт + сделка» также требуется право записи сделок."
+
+msgid "Lite provides global mappings. Individual mappings for specific form IDs are available in FormCourier CRM Pro."
+msgstr "Lite поддерживает глобальное сопоставление. Индивидуальные сопоставления для отдельных ID форм доступны в FormCourier CRM Pro."
+
+msgid "Logs updated successfully."
+msgstr "Журналы успешно обновлены."
+
+msgid "Message"
+msgstr "Сообщение"
+
+msgid "Missing"
+msgstr "Не задан"
+
+msgid "Next &raquo;"
+msgstr "Далее &raquo;"
+
+msgid "No log entries found."
+msgstr "Записи журнала не найдены."
+
+msgid "Optional. Leave empty to use the default HubSpot pipeline."
+msgstr "Необязательно. Оставьте поле пустым, чтобы использовать воронку HubSpot по умолчанию."
+
+msgid "Owner ID"
+msgstr "ID владельца"
+
+msgid "Pipedrive Domain:"
+msgstr "Домен Pipedrive:"
+
+msgid "Pipedrive Entity:"
+msgstr "Сущность Pipedrive:"
+
+msgid "Pipedrive company domain or API token is empty."
+msgstr "Домен компании Pipedrive или API-токен не указан."
+
+msgid "Pipedrive connection failed."
+msgstr "Не удалось подключиться к Pipedrive."
+
+msgid "Pipedrive did not return a person ID."
+msgstr "Pipedrive не вернул ID контакта."
+
+msgid "Pipedrive returned HTTP/API error while saving a deal."
+msgstr "При сохранении сделки Pipedrive вернул ошибку HTTP/API."
+
+msgid "Pipedrive returned HTTP/API error while saving a lead."
+msgstr "При сохранении лида Pipedrive вернул ошибку HTTP/API."
+
+msgid "Pipedrive returned HTTP/API error while saving a person."
+msgstr "При сохранении контакта Pipedrive вернул ошибку HTTP/API."
+
+msgid "Pipeline ID"
+msgstr "ID воронки"
+
+msgid "Please enter a valid email address."
+msgstr "Введите корректный адрес email."
+
+msgid "Private app access token"
+msgstr "Токен доступа приватного приложения"
+
+msgid "Remove"
+msgstr "Удалить"
+
+msgid "Request"
+msgstr "Запрос"
+
+msgid "Required for Contact + Deal. Use the internal stage ID from HubSpot pipeline settings."
+msgstr "Обязательно для режима «Контакт + сделка». Используйте внутренний ID этапа из настроек воронки HubSpot."
+
+msgid "Response"
+msgstr "Ответ"
+
+msgid "Review the privacy policy and terms of the selected CRM provider and update this site privacy policy to reflect the fields mapped by the administrator."
+msgstr "Ознакомьтесь с политикой конфиденциальности и условиями выбранного CRM-провайдера и обновите политику конфиденциальности сайта с учётом полей, сопоставленных администратором."
+
+msgid "Save Mode:"
+msgstr "Режим сохранения:"
+
+msgid "Search by masked email"
+msgstr "Поиск по замаскированному email"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Skipped"
+msgstr "Пропущено"
+
+msgid "Stage ID"
+msgstr "ID этапа"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Status:"
+msgstr "Статус:"
+
+msgid "Store masked request and response payloads for troubleshooting"
+msgstr "Сохранять замаскированные данные запросов и ответов для диагностики"
+
+msgid "Submission Logs"
+msgstr "Журнал заявок"
+
+msgid "Submission was not sent because field mapping is empty or no CRM fields were mapped."
+msgstr "Заявка не отправлена: сопоставление полей пустое или ни одно поле CRM не сопоставлено."
+
+msgid "Submission was not sent because the mapped CRM payload is empty."
+msgstr "Заявка не отправлена: сопоставленные данные CRM пусты."
+
+msgid "Success"
+msgstr "Успешно"
+
+msgid "Test selected CRM connection"
+msgstr "Проверить подключение выбранной CRM"
+
+msgid "The CRM credential was not saved because secure encryption is unavailable. Enable the PHP OpenSSL extension and try again."
+msgstr "Учётные данные CRM не сохранены, потому что безопасное шифрование недоступно. Включите расширение PHP OpenSSL и повторите попытку."
+
+msgid "The plugin can store a local technical log containing the form provider, CRM provider, processing result and a masked email address. Full request and response payload logging is disabled by default. CRM credentials are stored in encrypted form when OpenSSL is available."
+msgstr "Плагин может хранить локальный технический журнал с плагином формы, CRM-провайдером, результатом обработки и замаскированным email. Полное журналирование данных запросов и ответов по умолчанию отключено. При наличии OpenSSL учётные данные CRM хранятся в зашифрованном виде."
+
+msgid "This suggested text describes the data flow created when FormCourier CRM is enabled."
+msgstr "Этот рекомендуемый текст описывает поток данных, возникающий при включении FormCourier CRM."
+
+msgid "Updated"
+msgstr "Обновлено"
+
+msgid "Validate mapped Contact Form 7 email domains"
+msgstr "Проверять DNS доменов email, сопоставленных в Contact Form 7"
+
+msgid "View"
+msgstr "Просмотреть"
+
+msgid "View details"
+msgstr "Подробнее"
+
+msgid "Warning"
+msgstr "Предупреждение"
+
+msgid "Website contact"
+msgstr "Контакт с сайта"
+
+msgid "Website lead - %s"
+msgstr "Лид с сайта - %s"
+
+msgid "Website request"
+msgstr "Заявка с сайта"
+
+msgid "When a visitor submits a supported form, the site may send mapped form fields such as name, email address, phone number and message content to the CRM provider selected by the site administrator. The destination is either HubSpot or Pipedrive. When HubSpot Contact + Deal mode is enabled, the plugin also creates a CRM deal associated with the contact. The data is sent only after the administrator enables the integration and supplies CRM credentials."
+msgstr "Когда посетитель отправляет поддерживаемую форму, сайт может передавать сопоставленные поля формы, включая имя, email, номер телефона и текст сообщения, выбранному администратором CRM-провайдеру. Получателем данных является HubSpot или Pipedrive. Когда включён режим HubSpot «Контакт + сделка», плагин также создаёт связанную с контактом сделку в CRM. Данные передаются только после включения интеграции и добавления учётных данных CRM."
+
+msgid "You do not have permission to perform this action."
+msgstr "У вас недостаточно прав для выполнения этого действия."
+
+msgid "Get FormCourier CRM Pro"
+msgstr "Получить FormCourier CRM Pro"
+
+msgid "Need more integrations?"
+msgstr "Нужно больше интеграций?"
+
+msgid "Unlock more CRM integrations and advanced workflows with FormCourier CRM Pro."
+msgstr "Получите больше CRM-интеграций и расширенные рабочие процессы с FormCourier CRM Pro."
+
+msgid "Opens an external commercial website."
+msgstr "Открывает внешний коммерческий сайт."
