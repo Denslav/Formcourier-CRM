@@ -1,3 +1,25 @@
-git add .gitignore
-git commit -m "Add gitignore"
-git push
+# Dependencies
+/vendor/
+node_modules/
+
+# Build archives
+*.zip
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment / secrets
+.env
+.env.*
